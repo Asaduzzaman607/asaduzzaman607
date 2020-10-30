@@ -8,9 +8,6 @@
 
 ### Connect with me:
 
-[![Asad](https://asaduzzamansajeeb.netlify.app/ "Asad")](https://asaduzzamansajeeb.netlify.app/ "Asad")
-[![Sajeeb](https://asaduzzamansajeeb.netlify.app/ "Sejeeb")](https://linkedin.com/in/asaduzzaman-sajeeb/ "Stajilan")
-
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/am.sajeeb)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@sajeebasaduzzaman)
