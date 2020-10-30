@@ -7,6 +7,8 @@
 - I'm passionate about what I learn and apply them into real life.
 
 ### Connect with me:
+[![Asad](https://user-images.githubusercontent.com/57464067/95266920-da645300-083c-11eb-94dc-7fe0a60e0764.png "Asad")](https://asaduzzamansajeeb.netlify.app/ "Asad")
+[![Sajeeb](https://user-images.githubusercontent.com/57464067/95267106-34651880-083d-11eb-9164-da610769d7ab.png "Sejeeb")](https://linkedin.com/in/asaduzzaman-sajeeb/ "Stajilan")
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/am.sajeeb)
