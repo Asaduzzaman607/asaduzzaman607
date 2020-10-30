@@ -40,9 +40,9 @@
 
 <br />
 <br />
-<img width="550px" alt="Asaduzzaman Sajeeb Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzaman607&show_icons=true"/>
+<img width="550px" alt="Asaduzzaman Sajeeb Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzaman607&show_icons=true&theme=radical"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&show_icons=true&theme=radical)](https://github.com/Asaduzzaman607/asaduzzaman-sajeeb)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&card_width=550&)](https://github.com/Asaduzzaman607/asaduzzaman-sajeeb)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://asaduzzamansajeeb.netlify.app/
