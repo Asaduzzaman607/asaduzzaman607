@@ -3,7 +3,7 @@
 ### Welcome to my GitHub's World.
 
 
-- I'm passionate about what I learn and apply them into real life.
+- I'm passionate about what I learn and how I apply it to real life.
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)
