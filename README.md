@@ -2,7 +2,6 @@
 
 ### Welcome to my GitHub's World.
 
-## I'm a JavaScript Lover!
 
 - I'm passionate about what I learn and apply them into real life.
 
