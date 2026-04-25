@@ -1,68 +1,76 @@
 # Hi there, I'm Asaduzzaman Sajeeb 👋
 
-🎓 Ph.D. Student in Computer Science at :contentReference[oaicite:0]{index=0}  
-🔬 Graduate Research Assistant | AI for Education | Machine Learning | NLP  
-💻 Former Software Engineer with industry experience in full-stack development and data-driven systems.
+🎓 Ph.D. Student in Computer Science at University of Memphis  
+🔬 Graduate Research Assistant | AI Researcher | Machine Learning | NLP  
+💻 Former Software Engineer | Researcher | Problem Solver  
 
-I am passionate about building intelligent systems that solve real-world problems through research and innovation. My current work focuses on student modeling, learning analytics, Large Language Models (LLMs), and educational data mining.
+I build intelligent systems that solve real-world problems through research, innovation, and practical applications.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://sites.google.com/view/asad-uzzaman)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)  
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@sajeebasaduzzaman)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/13813957/asaduzzaman-sajeeb)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://sites.google.com/view/asad-uzzaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@sajeebasaduzzaman)
+
+---
+
+## 🏆 Achievements & Awards
+
+🥇 First Prize — CS Student Research Symposium 2026  
+📄 LAK 2026 Research Paper Accepted  
+📄 Learning @ Scale 2026 Paper Submitted  
+🎓 Graduate Assistantship Award — University of Memphis  
+💡 Published Researcher in AI & Medical Imaging
+
+---
+
+## 📊 GitHub Highlights
+
+- 🚀 Active Open Source Contributor  
+- 💻 Multiple AI / Research / Full-Stack Projects  
+- 📚 Consistent Learning & Code Contributions  
+- 🔥 Building Real-World Research Systems  
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Asaduzzaman607&theme=radical&margin-w=10&margin-h=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzaman607&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Asaduzzaman607&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&layout=compact&theme=radical)
 
 ---
 
 ## 🔬 Research Interests
 
 - Artificial Intelligence in Education  
-- Knowledge Tracing (BKT, DKT)  
 - Large Language Models (LLMs)  
-- Natural Language Processing  
-- Deep Learning & Neural Networks  
+- Student Modeling  
+- Knowledge Tracing  
+- Deep Learning  
+- NLP  
 - Explainable AI  
-- Human-Centered Intelligent Systems
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming
-`Python` `JavaScript` `SQL` `Java`
-
-### AI / ML
-`PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `BERT` `CNNs`
-
-### Data Science
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
-
-### Web / Software
-`React` `Node.js` `MongoDB` `Firebase` `Git` `Docker`
+`Python` `JavaScript` `SQL` `PyTorch` `TensorFlow` `Scikit-learn`  
+`React` `Node.js` `MongoDB` `Git` `Docker`
 
 ---
 
-## 📌 Current Focus
+## 📌 Current Work
 
-- AI for Learning Systems  
-- Student Behavior Modeling  
-- Educational Data Mining using :contentReference[oaicite:1]{index=1} datasets  
-- LLM-based tutoring systems  
-- Research publications & real-world AI deployment
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzaman607&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&layout=compact&theme=radical)
+- AI for Education Research  
+- Intelligent Tutoring Systems  
+- LLM + Student Learning Analytics  
+- Real-world AI Applications  
 
 ---
 
-## ✨ Quote
+## ✨ Motto
 
-> Passion for learning. Discipline in execution. Impact through technology.
+> Learn deeply. Build boldly. Impact globally.
