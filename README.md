@@ -39,6 +39,3 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&card_width=550&)](https://github.com/Asaduzzaman607/asaduzzaman-sajeeb)
 
-[website]: https://sites.google.com/view/asad-uzzaman
-[twitter]: https://twitter.com/BeingSajeeb
-[linkedin]: https://linkedin.com/in/asaduzzaman-sajeeb/
