@@ -7,7 +7,6 @@
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asaduzzaman-sajeeb/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/am.sajeeb)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@sajeebasaduzzaman)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13813957/asaduzzaman-sajeeb)
 <br />
@@ -40,8 +39,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman607&card_width=550&)](https://github.com/Asaduzzaman607/asaduzzaman-sajeeb)
 
-[programming]: https://www.programming-hero.com/
-[website]: https://asaduzzamansajeeb.netlify.app/
+[website]: https://sites.google.com/view/asad-uzzaman
 [twitter]: https://twitter.com/BeingSajeeb
 [linkedin]: https://linkedin.com/in/asaduzzaman-sajeeb/
-[webdevplaylist]: https://asaduzzamansajeeb.netlify.app/
